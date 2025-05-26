@@ -1,0 +1,14 @@
+/* cards */
+.tt-card {
+  @apply rounded-xl border border-neutral-700/50 shadow-lg mt-6;
+}
+
+/* page container */
+.app-shell {
+  @apply min-h-screen flex items-start justify-center pt-16 sm:pt-24 bg-neutral-900 text-neutral-100;
+}
+
+/* headline */
+.app-title {
+  @apply text-3xl sm:text-4xl font-bold mb-8 text-center;
+}

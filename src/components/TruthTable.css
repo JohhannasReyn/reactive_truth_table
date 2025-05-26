@@ -1,0 +1,4 @@
+.truth-table { border-collapse: collapse; }
+.truth-table th,
+.truth-table td { border: 1px solid #bbb; padding: 2px 6px; text-align: center; }
+.truth-table th { background: #eee; }
