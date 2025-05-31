@@ -4,7 +4,7 @@ A dynamic web application that generates truth tables from logical expressions w
 
 ## **Premise**
 
-The idea of this web app is to provide users with a truth table generator that dynamically constructs truth tables from logical sentences, regardless of the programming language syntax used or even if plain English is used. The web app accurately parses the sentence or string the user provides in the input field for logical operators and variables. Using the deconstructed operators, it constructs a truth table and supplies the values for each variable to output the complete truth table for the user to verify if their intended logical sentence produces the desired resultant logic.
+The idea of this web app is to provide users with a truth table generator that dynamically constructs truth tables from logical sentences, regardless of the programming language syntax used or even if plain English is used. The web app accurately parses the sentence or string the user provides in the input field for logical operators and variables. Using the deconstructed operators, it constructs a truth table and supplies the values for each variable to output the complete truth table for the user to verify if their intended logical sentence produces the desired result.
 
 ## **Features**
 
